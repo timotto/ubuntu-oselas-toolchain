@@ -1,7 +1,7 @@
 FROM timotto/ubuntu-ptxdist:2016.12.0
 
 ARG target=arm-1136jfs-linux-gnueabihf
-ARG oselas=2014.12.0
+ARG oselas=2016.06.1
 
 WORKDIR /home/user
 
