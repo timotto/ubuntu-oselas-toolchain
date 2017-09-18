@@ -1,4 +1,4 @@
-FROM timotto/ubuntu-ptxdist:2014.12.0
+FROM timotto/ubuntu-ptxdist:2016.12.0
 
 ARG target=arm-1136jfs-linux-gnueabihf
 ARG oselas=2014.12.0
