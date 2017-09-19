@@ -18,3 +18,4 @@ RUN cd OSELAS.Toolchain-${oselas} \
 	&& dpkg -i dist/oselas.toolchain-${oselas}-${target}*.deb \
 	&& cd .. \
 	&& rm -rf OSELAS.Toolchain-${oselas}
+
